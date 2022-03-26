@@ -1,10 +1,11 @@
-- Hey, I'm Isaac, studying Software Engineering in Federal University of Ceará, in Brazil.
-- I plan to do a master and doctorate degree in computer science in the future.
+- Hello, I'm Isaac. I study Software Engineering at Federal University of Ceará, Brazil.
+- I plan to do Masters and PhD in computer science in the future.
 - I know C and Python, and a little bit of Java and Haskell.
 - I also know a little bit of Flex and GNU Bison.
-- As DBMS tecnologies, I know PostgreSQL.
-- I did some projects involving logic for computer science.
+- I know PostgreSQL DBMS technology.
+- I use both Windows and Linux.
+- I did some projects involving propositional logic calculus.
 - Currently working on a project involving Analytic Tableaux and C.
-- Currently learning the basic fundamentals of image processing.
+- Currently learning the basics of image processing.
 - I am interested in studying infosec and Theory of Computation areas on the future.
 - If you want to contact me, this is my Email: ienewton123@gmail.com
