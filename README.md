@@ -1,11 +1,21 @@
-- Hello, I'm Isaac. I study Software Engineering at Federal University of Ceará, Brazil.
-- I plan to do Masters and PhD in computer science in the future.
-- I know C and Python, and a little bit of Java and Haskell.
-- I also know a little bit of Flex and GNU Bison.
-- I know PostgreSQL DBMS technology.
-- I use both Windows and Linux.
-- I did some projects involving propositional logic calculus.
-- Currently working on a project involving Analytic Tableaux and C.
-- Currently learning the basics of image processing.
-- I am interested in studying infosec and Theory of Computation areas on the future.
-- If you want to contact me, this is my Email: ienewton123@gmail.com
+# Isaac Emanuel
+
+## About me
+My name is Isaac. I study Software Engineering at Federal University of Ceará, Brazil, since 2020.
+
+I myself am brazillian, and I plan to do a PhD and Masters on Computer Science in the future. My areas of interest are Machine Learning, Deep Learning and Computer Vision. I like programming little projects as a hobby.
+
+## Technologies I am familiar with
+I'm familiar with:
+
+- C and Python languages.
+
+- Flex and GNU Bison as compiler generators.
+
+- Windows and Linux environments (even though I prefer Linux for personal use).
+
+- Basic concepts of computer vision
+
+- Basic machine learning algorithms and concepts and algorithms such as Linear Regression, Logistic Regression, Decision Trees.
+
+- Databases and relational databases concepts and modeling, and SQL. I made small projects with PostgreSQL in the past.
